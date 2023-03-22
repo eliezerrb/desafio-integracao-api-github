@@ -1,0 +1,22 @@
+.home-container {
+  padding: 27px 40px;
+  font-size: 48px;
+}
+
+.home-content-container {
+  margin-bottom: 35px;
+}
+
+.home-content-container h1 {
+  font-size: 1em;
+  letter-spacing: 0.02em;
+  color: #000000;
+  font-weight: 700;
+}
+
+.home-content-container h2 {
+  font-size: 0.5em;
+  color: #7e7e7e;
+  letter-spacing: 0.02em;
+  font-weight: 700;
+}
